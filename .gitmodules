@@ -1,0 +1,3 @@
+[submodule "homebase-paid"]
+	path = homebase-paid
+	url = git@github.com:GrimOutlook/homebase-paid.git

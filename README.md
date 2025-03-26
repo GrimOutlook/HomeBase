@@ -17,6 +17,7 @@ part name.
 | ([\*](#6-channel-relay-board)) [6 Channel Relay Board](https://a.co/d/0NnzUo6)                       | 1   | $10   |
 | [Zooz 800 Z-Wave GPIO Module](https://a.co/d/3nAOChq)                                                | 1   | $23   |
 | (\*) [BMP180 Board](https://a.co/d/gI1moHX)                                                          | 1   | $10   |
+| (\*) [24V to 5V Buck Converter](https://a.co/d/9Pe8hRs)                                              | 1   | $15   |
 
 ## Substitutions
 
