@@ -18,6 +18,8 @@ part name.
 | [Zooz 800 Z-Wave GPIO Module](https://a.co/d/3nAOChq)                                                | 1   | $23   |
 | (\*) [BMP180 Board](https://a.co/d/gI1moHX)                                                          | 1   | $10   |
 | (\*) [24V to 5V Buck Converter](https://a.co/d/9Pe8hRs)                                              | 1   | $15   |
+| M3 Screws                                                                                            | ?   | ?     |
+| M3 Screw Inserts                                                                                     | ?   | ?     |
 
 ## Substitutions
 
@@ -36,4 +38,4 @@ included in this count.
 
 ## Build Instructions
 
-1. Print the provided template.
+1. Print the provided drywall cutout template.
